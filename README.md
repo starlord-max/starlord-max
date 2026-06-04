@@ -114,11 +114,14 @@ export default new StarLord();
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starlord0062-starlord-maxmaker&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
+![](https://github-readme-stats.shion.dev/api?username=starlord-max&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=starlord-max&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=starlord-max&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=starlord-max&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=starlord-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=starlord-max&bg_color=000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" />
 
