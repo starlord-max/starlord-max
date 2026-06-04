@@ -114,13 +114,13 @@ export default new StarLord();
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starlord0062-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starlord0062-starlord-maxmaker&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=starlord0062-maker&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=starlord-max&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=starlord0062-maker&bg_color=000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=starlord-max&bg_color=000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" />
 
 </div>
 
